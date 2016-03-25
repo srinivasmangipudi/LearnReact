@@ -24,7 +24,7 @@ var AwesomeProject = React.createClass({
         </Text>
         <Text style={styles.instructions}>
           Press Cmd+R to reload,{'\n'}
-          Cmd+D or shake for dev menu
+          Cmd+D or shake for dev menu. BeardCoded by Srinivas.
         </Text>
       </View>
     );
