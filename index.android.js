@@ -23,7 +23,7 @@ var AwesomeProject = React.createClass({
           To get started, edit index.android.js
         </Text>
         <Text style={styles.instructions}>
-          Shake or press menu button for dev menu
+          Shake or press menu button for dev menu. BeardCoded by Srinivas
         </Text>
       </View>
     );
